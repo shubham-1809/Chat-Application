@@ -1,9 +1,9 @@
 body {
   height: 100vh;
   background-image: linear-gradient(
-    rgb(233, 222, 222),
-    rgb(152, 238, 130),
-    rgb(65, 197, 13)
+    rgb(218, 207, 207),
+    rgb(57, 33, 163),
+    rgb(13, 25, 197)
   );
 }
 
@@ -15,7 +15,7 @@ body {
 }
 
 h1{
-    margin-top: 12px;
+    margin-top: 5px;
     font-size: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
