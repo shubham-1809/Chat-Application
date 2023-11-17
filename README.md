@@ -41,7 +41,7 @@
 </ul>
 
 <h3>Demo</h3>
-<p>Check out a live demo of the chat app here.</p>
+<p>Check out a live demo of the chat app <a href = "https://chat-application-olive-two.vercel.app/"> here. </a></p>
 
 <h3>Contributing</h3>
 <p>If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome.</p>
