@@ -1,6 +1,10 @@
 <h2>Quick Chat Pro</h2>
 
 <p>Welcome to the Quick Chat Pro! This simple chat application allows users to engage in real-time conversations, powered by Node.js and Socket.io.</p>
+
+![readme-chatapp](https://github.com/shubham-1809/Chat-Application/assets/135697559/62ba015a-1b7a-4615-9701-815ad190cb98)
+
+
 <h3>Table of Contents</h3>
 <ul>
    <li>Features</li>
