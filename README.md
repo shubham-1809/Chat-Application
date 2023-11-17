@@ -1,11 +1,47 @@
-# Chat-Application
-<h3> This is a real time chat web application allowing multiple users can to engage in instant messaging. </h3> <br>
+<h2>Quick Chat Pro</h2>
+
+<p>Welcome to the Quick Chat Pro! This simple chat application allows users to engage in real-time conversations, powered by Node.js and Socket.io.</p>
+<h3>Table of Contents</h3>
 <ul>
-<li> Front end user interface is built using HTML, CSS and JavaScript that will ask user to enter his/her name and after that allows them to enter the chat room. </li>
-<li> A chat user interface is just like a whatsapp user interface where message sent by a user will appear on the right side and message recieved by a user will appear on the left side.</li>
-<li> Backend server is built using Node.js and Socket.io which is connected to the front end using one of the Socket.io library. Whenever a user connects to the server or sends a message the Socket.io will listen to that event and then it broadcast this event to all the users connected to this server. </li>
-<li> Similary JavaScript running on the users end will listen to any of the events pushed by the server and will render those events on the frontend. </li>
-<li> A user tracking functionality is also implemented which tracks whenever a users join and leave the chat room. This functionality will let other users know that whether any particular user has joined or left the chat room. </li>
-<li> Tech Stack(frontend): HTML | CSS | JavaScript <br>
-   Tech Stack(backend): Node.js | Socket.io </li>
+   <li>Features</li>
+   <li>Technology Used</li>
+   <li>Installation</li>
+   <li>Usage</li>
+   <li>Demo</li>
+   <li>Contributing</li>
 </ul>
+
+<h3>Features</h3>
+<ul>
+   <li><h4>Backend</h4></li>
+      <ul>
+         <li>Node.js</li>
+         <li>Socket.io</li>
+         <li>Express</li>
+      </ul>
+   <li><h4>Frontend</h4></li>
+      <ul>
+         <li>HTML</li>
+         <li>CSS</li>
+      </ul>
+</ul>
+
+<h3>Installlation</h3>
+<ul>
+   <li>Clone the repository: git clone https://github.com/shubham-1809/Chat-Application.git </li>
+   <li>Navigate to the project folder: cd Chat-Application </li>
+   <li>Install dependencies: npm install </li>
+</ul>
+
+<h3>Usage</h3>
+<ul>
+   <li>Start the server: node index.js </li>
+   <li>Open the chat app in your web browser: http://localhost:3000 </li>
+   <li>Enter a username and start chatting!</li>
+</ul>
+
+<h3>Demo</h3>
+<p>Check out a live demo of the chat app here.</p>
+
+<h3>Contributing</h3>
+<p>If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome.</p>
