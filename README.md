@@ -49,3 +49,8 @@
 
 <h3>Contributing</h3>
 <p>If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome.</p>
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
