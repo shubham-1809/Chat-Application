@@ -13,6 +13,7 @@
    <li>Usage</li>
    <li>Demo</li>
    <li>Contributing</li>
+   <li>License</li>
 </ul>
 
 <h3>Features</h3>
